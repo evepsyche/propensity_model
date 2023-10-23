@@ -20,3 +20,11 @@ Projeto realizado no Google Colab com a Linguagem Python e bibliotecas de análi
 * Treinamento usando Random Forest e XGBoost
 * Métricas de evaluação
 * Ajuste de hiperparâmetros
+
+## Conclusão
+No dataset usado, 89% (no = 36537) não subscreveram ao produto e 11% (yes= 4639) subscreveu. Assumindo que empresa receba R$100 em por cada subscrição e R$40 por ligação:
+
+Receita: 100 x 4639 = R$463.900
+Custo: 40 x (38537 + 4639) = R$1.647.040
+
+Resumindo, a empresa perderia R$1.183.140.
