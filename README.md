@@ -1,6 +1,8 @@
 # Modelo de propensão - Marketing bancário
 [Dataset original do repositório de Machine Learning UC Irvine](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 
+![mufid-majnun-LVcjYwuHQlg-unsplash](https://github.com/silvaelaine/propensity_model/assets/103846225/1697ab7e-76ff-46ae-b7c0-c5a0eced8928)
+
 O modelo de propensão é o modelo que tenta prever o cliente que tem intenção ou probabilidade de comprar aquele produto específico. Os produtos variam de fundo de investimento, produto de seguro, empréstimo, etc.
 
 Insights e previsões do comportamento do cliente são os principais benefícios de um modelo de propensão para as empresas.
